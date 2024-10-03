@@ -1,0 +1,52 @@
+body{
+
+	background-color:rgba(179, 175, 171, 0.5);
+}
+header{
+	height:100px;
+
+}
+h1{
+	color:rgba(179, 175, 171, 0.5);
+	font-size: xx-large;
+	height:150px;
+	width:100%;
+	background-color: rgb(22, 26, 59);
+	text-align:center;
+	margin: 0;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	padding-top:100px;
+	font-style: oblique;
+}
+
+h2{
+	color:rgba(179, 175, 171, 0.5);
+	background-color:rgb(35, 24, 78);
+	width:20%;
+	text-align:center;
+	font-size:large;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-weight:100;
+}
+
+h3{
+	color:rgba(179, 175, 171, 0.5);
+	background-color:rgb(76, 70, 100);
+	width:20%;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	width:20%;
+	text-align:center;
+	font-size:medium;
+	font-weight:100;
+}
+
+
+p{
+	color:black;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+a:visited{
+	color:black;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
