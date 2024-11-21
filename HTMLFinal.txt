@@ -10,3 +10,5 @@ It will be multimedia page with images, sounds, text, and videos.
 Logs will be... well logs. It will be the start of the story, but for this project I will end it here.
 Before accessing there will be a form that requires a password. This will introduce the gimick of an ARG,
 Still code and content is unfinished for now.
+
+Everything will be cleaned up.
