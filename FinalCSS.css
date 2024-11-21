@@ -1,0 +1,62 @@
+body{
+    background-color: #373842;
+    color:#000000;
+    margin: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-color:#354D65 ;
+    text-align:center;
+}
+nav{
+    /* play around with this more */
+    background-color:#5F7867;
+    margin:auto;
+    padding:20px;
+    position:fixed;
+    width: 100%;
+
+}
+h1{
+    /* add styles in here */
+    top:50px;
+}
+
+p{
+    background-color: #E7E7E7;
+    padding: 20px;
+    margin-top: 15%;
+    float: right;
+}
+
+footer{
+    background-color: #354D65;
+    bottom: 0px;
+    width: 100%;
+    padding: 20px;
+    position:absolute;
+    /* Change the text position */
+}
+
+img.Mainpage{
+    width: 400px;
+    height: 400px;
+    flex: 20%;
+    float: left;
+    margin-top: 10%;
+    /* make it look nicer */
+}
+#contacts{
+    background-color:#5F7867;
+    padding:20px;
+    margin-top:0px;
+    /* fix the position */
+}
+
+
+    /*
+#373842 <Black
+#E7E7E7 <White
+#5F7867 <Green
+#354D65 <Blue
+*/
