@@ -6,8 +6,7 @@ body{
 }
 header{
     background-color:#354D65 ;
-    text-align:center;
-}
+    text-align:center;}
 nav{
     /* play around with this more */
     background-color:#5F7867;
@@ -22,6 +21,7 @@ h1{
     top:50px;
 }
 
+/* should be in center. make it so it isn't touching the right side. */
 p{
     background-color: #E7E7E7;
     padding: 20px;
@@ -38,18 +38,26 @@ footer{
     /* Change the text position */
 }
 
+/* fix smaller screen issue. Center it next to the text.*/
 img.Mainpage{
     width: 400px;
     height: 400px;
     flex: 20%;
     float: left;
     margin-top: 10%;
+    object-fit: cover;
     /* make it look nicer */
+    /* fix the positions */
 }
 #contacts{
     background-color:#5F7867;
     padding:20px;
     margin-top:0px;
+    float:left;
+    position:absolute;
+    bottom: 30px;
+    left: 0px;
+    width:100%;
     /* fix the position */
 }
 
@@ -60,3 +68,9 @@ img.Mainpage{
 #5F7867 <Green
 #354D65 <Blue
 */
+
+/* fix positions for everything */
+/* this is so ugly. I need to fix some things. */
+/* do not start over i know you are tempted to */
+/* also organize everything */
+/* shorten adn fix code */
